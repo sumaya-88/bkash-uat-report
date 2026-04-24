@@ -33,13 +33,13 @@ This project demonstrates core QA competencies through a real-world UAT exercise
 ## 📸 Report Screenshots
 
 ### Cover & Executive Summary
-![Cover](screenshots/Screenshot%202026-04-24%20165100.png)
+![Cover](screenshots/Screenshot%202026-04-24%20165047.png)
 
 ### Test Scope & Methodology
-![Scope](screenshots/Screenshot%202026-04-24%20165047.png)
+![Scope](screenshots/Screenshot%202026-04-24%20165100.png)
 
 ### Bugs Found
-![Bugs](screenshots/Screenshot%202026-04-24%20164911.png)
+![Bugs](screenshots/Screenshot%202026-04-24%20165025.png)
 
 ### UX Issues Part 1
 ![UX1](screenshots/Screenshot%202026-04-24%20165012.png)
@@ -48,7 +48,7 @@ This project demonstrates core QA competencies through a real-world UAT exercise
 ![UX2](screenshots/Screenshot%202026-04-24%20164951.png)
 
 ### What Works Well
-![Good](screenshots/Screenshot%202026-04-24%20165025.png)
+![Good](screenshots/Screenshot%202026-04-24%20164911.png)
 
 ### Recommendations
 ![Rec](screenshots/Screenshot%202026-04-24%20164843.png)
