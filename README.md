@@ -30,34 +30,6 @@ This project demonstrates core QA competencies through a real-world UAT exercise
 
 ---
 
-## 📸 Report Screenshots
-
-### Cover & Executive Summary
-![Cover](screenshots/Screenshot%202026-04-24%20165047.png)
-
-### Test Scope & Methodology
-![Scope](screenshots/Screenshot%202026-04-24%20165100.png)
-
-### Bugs Found
-![Bugs](screenshots/Screenshot%202026-04-24%20165025.png)
-
-### UX Issues Part 1
-![UX1](screenshots/Screenshot%202026-04-24%20165012.png)
-
-### UX Issues Part 2
-![UX2](screenshots/Screenshot%202026-04-24%20164951.png)
-
-### What Works Well
-![Good](screenshots/Screenshot%202026-04-24%20164911.png)
-
-### Recommendations
-![Rec](screenshots/Screenshot%202026-04-24%20164843.png)
-
-### UAT Verdict
-![Verdict](screenshots/Screenshot%202026-04-24%20164828.png)
-
----
-
 ## 🐛 Key Bugs Found
 
 | # | Bug | Severity |
@@ -118,3 +90,30 @@ This project demonstrates core QA competencies through a real-world UAT exercise
 | `bKash_UAT_Report.docx` | Full report in Word format |
 | `bKash_UAT_Report.pdf` | Full report in PDF format |
 | `screenshots/` | Report page s
+
+
+## 📸 Report Screenshots
+
+### Cover & Executive Summary
+![Cover](screenshots/Screenshot%202026-04-24%20164828.png)
+
+### Test Scope & Methodology
+![Scope](screenshots/Screenshot%202026-04-24%20164843.png)
+
+### Bugs Found
+![Bugs](screenshots/Screenshot%202026-04-24%20164911.png)
+
+### UX Issues Part 1
+![UX1](screenshots/Screenshot%202026-04-24%20164951.png)
+
+### UX Issues Part 2
+![UX2](screenshots/Screenshot%202026-04-24%20165012.png)
+
+### What Works Well
+![Good](screenshots/Screenshot%202026-04-24%20165025.png)
+
+### Recommendations
+![Rec](screenshots/Screenshot%202026-04-24%20165047.png)
+
+### UAT Verdict
+![Verdict](screenshots/Screenshot%202026-04-24%20165100.png)
